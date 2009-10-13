@@ -14,7 +14,7 @@ lib/faker/internet.rb
 lib/faker/lorem.rb
 lib/faker/name.rb
 lib/faker/phone_number.rb
-lib/faker/isbn_10.rb
+lib/faker/isbn.rb
 lib/faker/version.rb
 script/destroy
 script/generate
