@@ -5,7 +5,6 @@ README.txt
 Rakefile
 config/hoe.rb
 config/requirements.rb
-faker.tmproj
 lib/extensions/array.rb
 lib/extensions/object.rb
 lib/faker.rb
@@ -15,6 +14,7 @@ lib/faker/internet.rb
 lib/faker/lorem.rb
 lib/faker/name.rb
 lib/faker/phone_number.rb
+lib/faker/isbn_10.rb
 lib/faker/version.rb
 script/destroy
 script/generate
