@@ -7,7 +7,7 @@ module Faker
       end
       
       def isbn_13
-        isbn_without_checksum = Faker.numerify('###-#-####-####-')
+        isbn_without_checksum = Faker.numerify('978-#-####-####-')
         isbn_without_checksum + checksum_13(isbn_without_checksum).to_s
       end
       
